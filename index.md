@@ -3,7 +3,7 @@
 
 RDC writes, edits, teaches, and organizes.
 <br><br><br><br>
-[I'M NOT WHAT I AM](log/log.html) [[rss](log/rss.xml)]
+# [I'M NOT WHAT I AM](log/log.html) TK [[rss](log/rss.xml)]
 
 Read some of his previously published [[writing](writing/writing.html)].
 
