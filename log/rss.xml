@@ -4,13 +4,20 @@
 <link>https://williamhazard.co</link>
 <description>poems with computers</description>
 <item>
-<title>log / 230930-light</title>
-<link>https://williamhazard.co/log/entries/230930-light.html</link>
-<guid>https://williamhazard.co/log/entries/230930-light.html</guid>
+<title>log / 0000my</title>
+<link>https://williamhazard.co/log/entries/0000my.html</link>
+<guid>https://williamhazard.co/log/entries/0000my.html</guid>
 <description><![CDATA[
-<p><img src="pics/light.jpeg" alt="" /></p>
 ]]></description>
-<pubDate>Mon, 04 Mar 2024 11:11:11 EST</pubDate>
+<pubDate></pubDate>
+</item>
+<item>
+<title>log / test</title>
+<link>https://williamhazard.co/log/entries/test.html</link>
+<guid>https://williamhazard.co/log/entries/test.html</guid>
+<description><![CDATA[
+]]></description>
+<pubDate></pubDate>
 </item>
 </channel>
 </rss>

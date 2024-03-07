@@ -1,1 +1,0 @@
-06MAR2024 - No luck figuring out how to get the log to load. waiting on actually uploading GIFs.
