@@ -6,7 +6,8 @@
 **a turn** <br>
 <em> January 2021, TriQuarterly Magazine </em><br>
 A video-poem on time.
-[![a turn](a turn.jpg)](https://www.triquarterly.org/issues/issue-159/turn)
+[![](a turn.jpg)](https://www.triquarterly.org/issues/issue-159/turn)
+
 <br><br>
 **Only Want To See You**<br>
 <em>December 2020, trailer screened at Vox Populi Holiday Minute-Fest</em><br>
