@@ -1,44 +1,26 @@
 <rss version="2.0">
 <channel>
-<title>William Hazard</title>
-<link>https://williamhazard.co</link>
-<description>poems with computers</description>
+<title>RDC</title>
+<link>https://robertdavidcarey.com</link>
+<description>there is no description</description>
 <item>
-<title>log / 240307</title>
-<link>https://williamhazard.co/log/entries/240307.html</link>
-<guid>https://williamhazard.co/log/entries/240307.html</guid>
+<title>log / 240308-TEST</title>
+<link>https://robertdavidcarey.com/log/entries/240308-TEST.html</link>
+<guid>https://robertdavidcarey.com/log/entries/240308-TEST.html</guid>
 <description><![CDATA[
+<p>20240307</p>
+<p>What is going on?</p>
 ]]></description>
-<pubDate></pubDate>
+<pubDate>Fri, 08 Mar 2024 11:11:11 EST</pubDate>
 </item>
 <item>
-<title>log / -</title>
-<link>https://williamhazard.co/log/entries/-.html</link>
-<guid>https://williamhazard.co/log/entries/-.html</guid>
+<title>log / 240308</title>
+<link>https://robertdavidcarey.com/log/entries/240308.html</link>
+<guid>https://robertdavidcarey.com/log/entries/240308.html</guid>
 <description><![CDATA[
-Usage:   cmark [FILE*]
-Options:
-  --to, -t FORMAT  Specify output format (html, xml, man, commonmark, latex)
-  --width WIDTH    Specify wrap width (default 0 = nowrap)
-  --sourcepos      Include source position attribute
-  --hardbreaks     Treat newlines as hard line breaks
-  --nobreaks       Render soft line breaks as spaces
-  --safe           Omit raw HTML and dangerous URLs
-  --unsafe         Render raw HTML and dangerous URLs
-  --smart          Use smart punctuation
-  --validate-utf8  Replace invalid UTF-8 sequences with U+FFFD
-  --help, -h       Print usage information
-  --version        Print version
+<p><img src="pics/SAD.gif" alt="SAD" /></p>
 ]]></description>
-<pubDate></pubDate>
-</item>
-<item>
-<title>log / Test</title>
-<link>https://williamhazard.co/log/entries/Test.html</link>
-<guid>https://williamhazard.co/log/entries/Test.html</guid>
-<description><![CDATA[
-]]></description>
-<pubDate></pubDate>
+<pubDate>Fri, 08 Mar 2024 11:11:11 EST</pubDate>
 </item>
 </channel>
 </rss>
