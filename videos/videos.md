@@ -41,7 +41,7 @@ A group of actors struggle with unnatural dialogue as a group of filmmakers stru
 
 This film began as an experiment in treating the rhyme and rhythm of a found text as a formal constraint for a stream-of-consciousness written piece. Because the source text consisted of a scene from a play, <em>All My Suns</em> by Arthur Miller, the new text was then staged and performed by a group of actors -- who, in turn, were directed to perform according to the intentions of the source text, in a sense pitting them against the new text. Complications arise, and the film becomes something else entirely.<br>
 
-[![](awlmysuns.jpeg)](index.html)
+![](awlmysuns.jpeg)
 
 <br><br>
 
