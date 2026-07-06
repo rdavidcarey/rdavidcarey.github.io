@@ -1,13 +1,15 @@
-[![](header.JPG)](index.html)
+(index.html)
 
 
-RDC writes, edits, teaches, and organizes.
+This website under construction.
 <br><br><br><br>
-[I'M NOT WHAT I AM](log/log.html) [[rss](log/rss.xml)]
-
-Read some of his previously published [[writing](writing/writing.html)].
-
-Watch some of his [[videos](videos/videos.html)].
 
 
-If you'd like to contact him, please use the email below.
+There will be a link to read some writing.
+
+Another link to watch some [[videos](videos/videos.html)].
+
+And yet another listing past and future performances.
+
+
+If you'd like to contact RDC, please use the email below.
