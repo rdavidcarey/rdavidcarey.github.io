@@ -1,4 +1,3 @@
-#!/bin/bash
 zsh ./build.sh
 
 echo ">> clearing worktree"
