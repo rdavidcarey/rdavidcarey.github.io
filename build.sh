@@ -8,7 +8,7 @@ function htmlify() {
     cat $1 > ${target}
     cmark --unsafe ${file}.md >> ${target}
     cat $2 >> ${target}
-    sed -i '' -e 's#DATE#'$date'#g' ${target}
+    sed -i -e 's#DATE#'$date'#g' ${target}
     echo "$file built"
   done
 }
@@ -92,5 +92,5 @@ done
 
 cat ../../log-foot.htm_ >> ../${log}.html
 date=$(date -r ../${log}.html +%D)
-sed -i '' -e 's#DATE#'$date'#g' ../${log}.html
+sed -i -e 's#DATE#'$date'#g' ../${log}.html
 cat ../end_rss.xml_ >> ../rss.xml
